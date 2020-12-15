@@ -1,0 +1,51 @@
+{
+    "manifest_version": 2,
+    "name": "Limit Space",
+    "short_name": "Limit Space",
+    "start_url": "/?utm_source=homescreen",
+    "description": "Limit Space",
+    "scope": "/",
+    "lang": "pt-BR",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "background_color": "#333333",
+    "theme_color": "#333333",
+    "version": "1.0",
+    "icons": [
+        {
+            "src": "/img/icon-16x.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/img/icon-32x.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/img/icon-48x.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/img/icon-128x.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/icon-192x.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icon-512x.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/img/icon-512x.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+  }
